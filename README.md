@@ -3,6 +3,11 @@ A hands-on Azure Data Engineering project implementing the Medallion Architectur
 
 # Contents:
 
+## Dataset 
+
+Access the public dataset under the guidance of Ansh Lamba: [Adventure‑Works Data Engineering Project](https://github.com/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/tree/main/Data)
+
+
 ## Silver Notebook (.html):
 
 Contains the cleaned and transformed data at the Silver layer of the Medallion architecture.
